@@ -15,5 +15,5 @@ sklearn.neighbors
 sklearn.metrics 
 
 Note 
-1. Evaluate the classifier on the testing set using metrics like accuracy, precision, recall, and F1 score.  
-2.Visualise the results, using standard visualisation tools and Find the best Metric for the problem
+1. Evaluate the classifier on the testing set using metrics like accuracy, precision, recall, and F1 score.
+2. Visualise the results, using standard visualisation tools and Find the best Metric for the problem
